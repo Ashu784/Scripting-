@@ -1,2 +1,2 @@
-# Scripting-
+# Scripting
 Software Testing Scripting
